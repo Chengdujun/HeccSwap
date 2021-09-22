@@ -1,5 +1,5 @@
 {
-  "name": "HECC",
+  "name": "HeccList",
   "logoURI": "http://www.hecc.club/qfy-content/uploads/2021/07/e13f40bf5271fb60fd2b59ba21d215a4.png",
   "keywords": [
     "hecc",
@@ -24,16 +24,16 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
     },
     {
-      "chainId": 1,
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "name": "Compound Dai",
-      "symbol": "cDAI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
+      "chainId": 56,
+      "address": "0xfe653ea8565c526fae002c1f4b764e082d0a58d3",
+      "name": "HECCSwap Token",
+      "symbol": "HECC",
+      "decimals": 18,
+      "logoURI": "http://www.hecc.club/qfy-content/uploads/2021/07/e13f40bf5271fb60fd2b59ba21d215a4.png"
     },
     {
-      "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 56,
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
